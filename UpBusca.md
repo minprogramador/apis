@@ -2,9 +2,9 @@
 
 #### Url Api.
 
-IP/URL | Dependencias | Origem | Valor | Data Pg | Status
+URL | Dependencias | Origem | Valor | Data Pg | Status
 | :------- | --------------  | ------- | ----- | --------| -------- 
-`http://191.101.18.200` | 191.101.18.200 | :two: | :interrobang: | :interrobang: | :interrobang:  | :white_check_mark:
+`http://191.101.18.200` | :two: | :interrobang: | :interrobang: | :interrobang:  | :white_check_mark:
 
 
 ----------------------------------------
