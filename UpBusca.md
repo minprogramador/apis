@@ -4,7 +4,7 @@
 
 URL | Dependencias | Origem | Valor | Data Pg | Status
 | :------- | --------------  | ------- | ----- | --------| -------- 
-`http://191.101.18.200` | :two: | :interrobang: | :interrobang: | :interrobang:  | :white_check_mark:
+`http://191.101.18.200` | CPF ~ CNPJ ~ LINCE ~ PAI ~ CREDITO | :interrobang: | :interrobang: | :interrobang:  | :white_check_mark:
 
 
 ----------------------------------------
