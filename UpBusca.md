@@ -14,7 +14,7 @@ URL | Dependencias | Origem | Valor | Data Pg | Status
 
 | URL |
 | :-- | 
-`http://www5.mte.gov.br/internet/sirett/pedidoalteracao/autenticarempresa.asp`
+`http://www5.mte.___.br/internet/sirett/pedidoalteracao/autenticarempresa.asp`
 
 
 Proxy | Local Proxy | Status
