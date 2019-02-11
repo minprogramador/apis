@@ -1,16 +1,16 @@
 ## UpBusca.
 
-#### Url Api.
+#### Url.
 
 URL | Dependencias | Origem | Valor | Data Pg | Status
-| :------- | --------------  | ------- | ----- | --------| -------- 
-`http://191.101.18.200` | CPF ~ CNPJ ~ LINCE ~ PAI ~ CREDITO | :interrobang: | :interrobang: | :interrobang:  | :white_check_mark:
+| :------- | :--------------:  | :-------: | :-----: | :--------:| :--------: |
+`http://191.101.18.200` | CPF ~ CNPJ ~ LINCE ~ PAI ~ CREDITO | :interrobang: | :interrobang: | :interrobang:  | :white_check_mark: |
 
 
 ----------------------------------------
 
 
-#### Api CPF:
+#### Dependencia CPF:
 
 | URL |
 | :-- | 
@@ -29,6 +29,7 @@ Proxy | Local Proxy | Status
 
 - **Proxy Atual:** `arainha.hopto.org:5510 = Off`
 - **Proxy Temporario:** `187.45.123.167:3128 = On`
+
 
 ----------------------------------------
 
