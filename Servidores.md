@@ -3,7 +3,7 @@
 | IP | Serviços | Origem | Valor | Data Pg | Status |
 :--- | :------- | ------ | ----- | ------- | ------ |
 191.101.18.200 | :five:  | :interrobang: | :interrobang: | :interrobang:  | :white_check_mark:
-
+177.128.180.100 | :five:  | :interrobang: | :interrobang: | :interrobang:  | :white_check_mark:
 
 ------------------------------------
 
