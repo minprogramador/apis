@@ -9,6 +9,8 @@
 191.96.28.230 | ApiPai | **host1plus** | **R$: 85,00** | **09**  | :white_check_mark:
 consultasgold.com | SiteGold ~ PainelGold ~ Intouch | **phoenixnap** | **202 dolar** | **08**  | :white_check_mark:
 checkbusca.com | Cnh ~ Veiculo ~ RgCadastral | :free: | :free: | :free:  | :white_check_mark:
+145.14.134.121 | *INSTALAR CNSCRED ~ APICREDITO*| **hostzone** | **R$ 92,00** | **11** | :white_check_mark:
+
 
 ------------------------------------
 
