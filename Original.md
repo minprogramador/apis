@@ -3,7 +3,9 @@
 **url cliente:** `http://www.consultasgold.com/Servicos/Original`
 
 **url api:** `http://181.215.238.197/assert/?cpf=03285872730`
+
 **caminho api:** `/var/www/html/assert`
+
 **caminho arquivo config:** `/var/www/html/assert/config.php`
 
 ```
