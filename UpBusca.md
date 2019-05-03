@@ -19,18 +19,22 @@ URL | Dependencias | Origem | Valor | Data Pg | Status
 
 Proxy | Local Proxy | Status
 :---- | :---------- | :-----: 
-| 187.45.123.167:3128 | `/var/www/html/api/lib/Sistema/Util.php # 26 #` | :white_check_mark:
+| 201.90.120.198:3128 | `/var/www/html/api/dados.proxy` | :white_check_mark:
 
 
 ----------------------------------------
 
 
-**Alterado em:** `11/02/2019 16:20`
+**Alterado em:** `03/05/2019 14:14`
 
-- **Proxy Atual:** `arainha.hopto.org:5510 = Off`
-- **Proxy Temporario:** `187.45.123.167:3128 = On`
+`
+Para editar o proxy:
+Abrir o ssh ou ftp.
+ir ate a pasta /var/www/html/api
 
+abrir o arquivo dados.proxy
+e alterar o proxy na primeira linha exemplo: ip:porta
 
-----------------------------------------
+`
 
 *To be continue...*
